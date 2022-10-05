@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/bin/Debug/net6.0/Zadacha_2
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/bin/Debug/net6.0/Zadacha_2.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/bin/Debug/net6.0/Zadacha_2.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/bin/Debug/net6.0/Zadacha_2.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/bin/Debug/net6.0/Zadacha_2.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/refint/Zadacha_2.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/Zadacha_2.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_2/obj/Debug/net6.0/ref/Zadacha_2.dll
