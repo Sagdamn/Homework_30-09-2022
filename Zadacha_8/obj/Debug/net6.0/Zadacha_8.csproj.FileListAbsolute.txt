@@ -1,0 +1,15 @@
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.csproj.AssemblyReference.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.AssemblyInfoInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.AssemblyInfo.cs
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.csproj.CoreCompileInputs.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/bin/Debug/net6.0/Zadacha_8
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/bin/Debug/net6.0/Zadacha_8.deps.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/bin/Debug/net6.0/Zadacha_8.runtimeconfig.json
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/bin/Debug/net6.0/Zadacha_8.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/bin/Debug/net6.0/Zadacha_8.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/refint/Zadacha_8.dll
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.pdb
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/Zadacha_8.genruntimeconfig.cache
+/Users/sagdamn/Desktop/Разработчик. Учёба/Homework 30.09/Zadacha_8/obj/Debug/net6.0/ref/Zadacha_8.dll
